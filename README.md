@@ -4,15 +4,8 @@ Computacion en Java Tecmilenio
 
 ## Instalacion
 
-### Opcion 1: Descargar el jar
-- Entrar a la pagina: https://github.com/alanlopez89/fbcmd4j/releases
-- Descargar el archivo fbcmj4.jar de la seccion v1.0
-- En una consola ejecutar mediante 'java -jar fbcmj4.jar'
-
-### Opcion 2: Importar y generar el jar
-- Importar el repositorio a eclipse
-- Exportar a Jar ejecutable
-- En una consola ejecutar mediante 'java -jar [archivo].jar'
+### 
+El participante aplicará sus conocimientos obtenidos en el curso para crear un cliente de Facebook en línea de comando en Java con Facebook4J y otras librerías de código libre, donde pueda realizar cuatro operaciones básicas: obtener el newsfeed, obtener el wall y poder guardar la salida en un archivo; publicar estado y publicar un link. Además de configuración de la aplicación en Java y en Facebook.
 
 ## Creditos
 Jose Manuel
